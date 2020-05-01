@@ -1,0 +1,2 @@
+{"coord":{"lon":-123.12,"lat":49.25},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":290.24,"feels_like":287.55,"temp_min":289.26,"temp_max":290.93,"pressure":1016,"humidity":40},"wind":{"speed":1.79,"deg":128,"gust":3.13},"clouds":{"all":80},"dt":1588373853,"sys":{"type":3,"id":2009529,"country":"CA","sunrise":1588337380,"sunset":1588390149},"timezone":-25200,"id":6173331,"name":"Vancouver","cod":200}
+
